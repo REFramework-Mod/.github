@@ -12,6 +12,11 @@
   <a href="https://REFramework-Mod.github.io/.github"><img src="https://img.shields.io/badge/VR-✓-2ea44f?style=flat-square" alt="VR Supported"></a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/REFramework-Mod/.github/blob/main/assets/image/1.png?raw=true" width="700" alt="Overlay">
+</p>
+
+
 REFramework is a community-developed mod framework, scripting platform, and modding tool for games built on Capcom's **RE Engine**.
 
 It provides a runtime environment that allows compatible mods, Lua scripts, and native plugins to interact with the game while it is running.
